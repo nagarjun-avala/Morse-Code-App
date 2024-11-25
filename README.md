@@ -15,8 +15,7 @@ A simple, interactive web application to encode text into Morse code and decode 
 
 ## Demo
 
-[Click here to try the Morse Code Translator](#)  
-_(Replace with the deployed link once hosted)_
+[Click here to try the Morse Code Translator](https://nagarjun-avala.github.io/Morse-Code-App/)
 
 ---
 
