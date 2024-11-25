@@ -58,7 +58,7 @@ Here’s a quick reference for Morse code:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nagarjun-avala/morse-code-translator.git
+   git clone https://github.com/nagarjun-avala/Morse-Code-App.git
    cd morse-code-translator
    ```
 2. Open `index.html` in your preferred browser.
