@@ -20,6 +20,34 @@ _(Replace with the deployed link once hosted)_
 
 ---
 
+## Morse Code Table
+
+Here’s a quick reference for Morse code:
+
+| Character | Morse Code | Character | Morse Code |
+| --------- | ---------- | --------- | ---------- |
+| A         | .-         | N         | -.         |
+| B         | -...       | O         | ---        |
+| C         | -.-.       | P         | .--.       |
+| D         | -..        | Q         | --.-       |
+| E         | .          | R         | .-.        |
+| F         | ..-.       | S         | ...        |
+| G         | --.        | T         | -          |
+| H         | ....       | U         | ..-        |
+| I         | ..         | V         | ...-       |
+| J         | .---       | W         | .--        |
+| K         | -.-        | X         | -..-       |
+| L         | .-..       | Y         | -.--       |
+| M         | --         | Z         | --..       |
+| 1         | .----      | 6         | -....      |
+| 2         | ..---      | 7         | --...      |
+| 3         | ...--      | 8         | ---..      |
+| 4         | ....-      | 9         | ----.      |
+| 5         | .....      | 0         | -----      |
+| Space     | /          |           |            |
+
+---
+
 ## Installation
 
 ### Requirements
@@ -104,5 +132,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Author
 
-[Your Name](https://github.com/nagarjun-avala)  
+[Nagarjun Avala](https://github.com/nagarjun-avala)  
 Feel free to reach out for questions or suggestions!
